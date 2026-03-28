@@ -1,0 +1,2 @@
+[console_scripts]
+task-cli = resolution_week1_spuop.main:main

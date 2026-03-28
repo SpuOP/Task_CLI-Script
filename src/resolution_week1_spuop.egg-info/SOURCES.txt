@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+src/resolution_week1_spuop/__init__.py
+src/resolution_week1_spuop/main.py
+src/resolution_week1_spuop.egg-info/PKG-INFO
+src/resolution_week1_spuop.egg-info/SOURCES.txt
+src/resolution_week1_spuop.egg-info/dependency_links.txt
+src/resolution_week1_spuop.egg-info/entry_points.txt
+src/resolution_week1_spuop.egg-info/top_level.txt

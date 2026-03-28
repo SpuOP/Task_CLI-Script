@@ -1,0 +1,26 @@
+Metadata-Version: 2.4
+Name: resolution-week1-spuop
+Version: 0.1.0
+Summary: A simple Python CLI task manager
+Author: Spandan Gautam
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+
+# Task CLI Script
+
+A simple Python command-line task manager built with argparse and JSON storage.
+
+## Features
+- Add tasks
+- List tasks
+- Mark tasks as complete
+- Delete tasks
+
+## Usage
+
+Add a task:
+```bash
+python -m resolution_week1_spuop.main "Do homework"
+python -m resolution_week1_spuop.main --list
+python -m resolution_week1_spuop.main --complete 1
+python -m resolution_week1_spuop.main --delete 1
